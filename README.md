@@ -12,3 +12,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdfaizankhan-123&show_icons=true&locale=en" alt="mohdfaizankhan-123" /></p>
 -->
+![dino](https://user-images.githubusercontent.com/65215044/116214286-2dafdb80-a764-11eb-9222-2a7b3586606a.gif)
+
