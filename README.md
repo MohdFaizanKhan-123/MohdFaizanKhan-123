@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>&nbsp;<img align="right" src="https://raw.githubusercontent.com/m-hamzashakeel/m-hamzashakeel/master/code.gif" width = "500" height = "500" /></p>
+<p>&nbsp;<img align="right" src="https://raw.githubusercontent.com/m-hamzashakeel/m-hamzashakeel/master/code.gif" width = "500" height = "300" /></p>
 
 - 🔭 I’m currently working on Flutter.
 - 🌱 I’m currently learning Python.
